@@ -1,7 +1,7 @@
 <p align="center">
-    <a href="https://github.com/ChronicalKeeper/ChronicalKeeper">
+    <a href="https://github.com/ChronicleKeeper/ChronicleKeeper">
         <img
-            src="https://raw.githubusercontent.com/ChronicalKeeper/ChronicalKeeper/main/assets/images/logo.png"
+            src="https://raw.githubusercontent.com/ChronicleKeeper/ChronicleKeeper/main/assets/images/logo.png"
             alt="Chronicle Keeper - Rollenspiel Chatbot - Wissenbewahrer"
             width="300"
         >
@@ -32,4 +32,4 @@ Gefährte zur Seite.
 
 ## Mehr Informationen
 
-- [Programm Repository](https://github.com/ChronicalKeeper/ChronicalKeeper)
+- [Programm Repository](https://github.com/ChronicleKeeper/ChronicleKeeper)
