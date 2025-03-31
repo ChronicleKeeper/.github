@@ -10,29 +10,25 @@
 
 
 
-## Der Chronicle Keeper
+## The Chronicle Keeper
 
-Der Chronicle Keeper ist ein mächtiger Begleiter, der speziell für die Welt der Rollenspiele erschaffen wurde. Er dient als
-Hüter des Wissens und als weiser Berater, der dir hilft, Dokumente und Bilder effizient zu verwalten und zu organisieren.
-Mit der Integration von ChatGPT kannst du deine gesammelten Schätze interaktiv und durch magische System-Prompts
-abfragbar machen.
+Chronicle Keeper is a comprehensive companion for role-players, designed to help you develop and navigate fantasy worlds. Whether you're a dungeon master or a player, Chronicle Keeper assists you in tracking the development within your world, organizing knowledge, and enhancing your storytelling experience.
 
-Mit der Hilfe des Chronicle Keeper kannst du die epische Reise deines Charakters begleiten und deine eigene Rollenspielwelt
-als Spielleiter mühelos durchsuchbar und erweiterbar gestalten. Der Chronicle Keeper steht jedem Abenteurer als treuer
-Gefährte zur Seite.
+With the integrated chatbot powered by ChatGPT, you can further develop your world or characters based on existing knowledge or create entirely new elements. Chronicle Keeper brings your world just a question away from your imagination.
 
-**Eine kleine Auswahl der Magie des Chronicle Keepers:**
+## Features
 
-- ChatGPT-Integration: Mach deine Dokumente interaktiv und abfragbar durch System-Prompts.
-- Dokumentenmanagement: Verwalte und organisiere Dokumente und Bilder effizient für Kontextwissen in Gesprächen mit ChatGPT.
-- PHPDesktop-Support: Führe die Anwendung als Desktop-Applikation für Windows aus.
-- Export/Import: Exportiere deine Daten, um sie wieder zu importieren, weiterzugeben oder zu sichern.
-- Umfangreiche Konfiguration zum Verhalten des Chronicle Keepers im Gespräch.
-- Konfigurierbare Kalender mit Feiertagen und Mondzyklen, unabhängig vom realen Kalender und dem realen Zeitablauf.
-- Bildgenerierung mit DALL-E 3 und dem bestehenden Kontextwissen aus der Bibliothek in einem Zwei-Schritt-Verfahren.
+**Chronicle Keeper's capabilities include:**
+
+- **Library Management**: Organize documents, images, conversations, and more in an easily accessible system
+- **World Reference**: Quick access to information about connections between elements in your world
+- **Custom Calendar**: Configure a calendar for your world independent from real-world timekeeping
+- **AI Image Generation**: Create illustrations for your characters and world based on your existing knowledge
+- **Interactive Chat**: Make all your world knowledge interactive through conversations with the keeper
+- **Data Portability**: Export and import your data for backups, sharing, or migration
 
 ## Mehr Informationen
 
-- [Benutzerhandbuch](https://chroniclekeeper.github.io/docs/)
-- [Letztes Release](https://github.com/ChronicleKeeper/ChronicleKeeper/releases/latest)
-- [Chronicle Keeper Source Code](https://github.com/ChronicleKeeper/ChronicleKeeper)
+- [User Manual](https://chroniclekeeper.github.io/docs/)
+- [Latest Release](https://github.com/ChronicleKeeper/ChronicleKeeper/releases/latest)
+- [Chronicle Keeper Source](https://github.com/ChronicleKeeper/ChronicleKeeper)
