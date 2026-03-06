@@ -1,8 +1,8 @@
 <p align="center">
-    <a href="https://github.com/ChronicleKeeper/ChronicleKeeper">
+    <a href="https://app.chronicle-keeper.com">
         <img
-            src="https://raw.githubusercontent.com/ChronicleKeeper/ChronicleKeeper/main/assets/images/logo.png"
-            alt="Chronicle Keeper - Rollenspiel Chatbot - Wissenbewahrer"
+            src="https://raw.githubusercontent.com/ChronicleKeeper/.github/main/assets/images/logo.png"
+            alt="Chronicle Keeper - Your Role-Playing Companion"
             width="300"
         >
     </a>
