@@ -1,7 +1,7 @@
 <p align="center">
     <a href="https://app.chronicle-keeper.com">
         <img
-            src="https://raw.githubusercontent.com/ChronicleKeeper/.github/main/assets/images/logo.png"
+            src="https://raw.githubusercontent.com/ChronicleKeeper/.github/main/logo.png"
             alt="Chronicle Keeper - Your Role-Playing Companion"
             width="300"
         >
